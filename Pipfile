@@ -9,6 +9,7 @@ gym = "*"
 ipykernel = "*"
 jupyter = "*"
 numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
