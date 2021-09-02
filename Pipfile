@@ -10,8 +10,11 @@ ipykernel = "*"
 jupyter = "*"
 numpy = "*"
 matplotlib = "*"
+sklearn = "*"
+tensorflow = "*"
+atari-py = {path = "./atari-py"}
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
